@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(45deg, #1e3c72, #2a5298); /* Modern gradient background */
+  overflow: hidden;
+  margin: 0;
+}
+
+canvas {
+  display: block;
+  border-radius: 15px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.7); /* Deep shadow effect */
+}
+@media screen and (max-width: 768px) {
+  body, html {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+  }
+
+  canvas {
+    width: 100vw !important;
+    height: 100vh !important;
+    border-radius: 0px !important;  
+    box-shadow: none !important;  
+    outline: none !important;  
+  }
+}
