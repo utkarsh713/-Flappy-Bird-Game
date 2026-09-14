@@ -1,7 +1,7 @@
 # Flappy Bird Game
  
 A simple Flappy Bird clone built using **Phaser 3**. 
-   
+      
 ## 🚀 Live Demo
 [Play the Game](#) 
 
