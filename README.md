@@ -10,7 +10,9 @@
 
 <p align="center">
 
-  
+  <a href="https://sayanmaity-me.github.io/Flappy-Bird-Game-/">
+    <img src="https://img.shields.io/badge/🎮_Live_Demo-Play_Now-00ff99?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 
   <img src="https://img.shields.io/badge/Phaser%203-Game%20Engine-8B5CF6?style=for-the-badge" />
 
@@ -31,14 +33,6 @@ The main objective is simple:
 > 🐦 Control the bird, avoid the pipes, and achieve the highest score possible!
 
 The project focuses on implementing game physics, collision detection, animations, sound effects, scoring, and responsive controls.
-
----
-
-## 🚀 Live Demo
-
-🎮 **Play the Game:**
-
-https://sayanmaity-me.github.io/Flappy-Bird-Game-/
 
 ---
 
